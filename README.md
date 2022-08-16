@@ -1,5 +1,5 @@
 ### Hello👋! My name is Aaron, I'm a 21 year old developer from Buenos Aires, Argentina.
-- 🔭 I just finished working on a pet adoption network named Rebirth. You can check it out on my repositories!
+- - 🔭 I just finished working on a pet adoption network named Rebirth. You can check it out on my repositories!
 - - 👯 I’m looking to make my way onto a team that can help me learn new technologies.
 - - 📫 Reach me: LinkedIn: https://www.linkedin.com/in/aarongerez/ Mail: aaronstz@hotmail.com
 
