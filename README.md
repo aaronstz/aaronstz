@@ -38,3 +38,11 @@ I participated in an agile development team with SCRUM methodology in one-week s
 Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
 
 For more information visit the website of <a href="https://frontend-rebirth.vercel.app/" target="blank">Rebirth</a>
+
+
+<h3><mark>Pokemon App</mark></h3>
+
+![pokemonHome](https://ucarecdn.com/76c32236-8734-4054-b11c-a5abda8d5fdf/)
+A page that allows to search for pokemons info, brought through <a href="https://pokeapi.co/docs/v2">Pokemon API</a>, you can sort them alphabetically, by strength, type and if they come from the api or if they were created.
+You can create your own Pokemon, with it's own name, strength, defense, attack, image, etc. and if you want more information of him, you can access it's details.
+Everything was done with pure CSS without css frameworks or any external components.
