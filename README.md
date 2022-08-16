@@ -15,9 +15,6 @@
   <p>Javascript | React-Redux | CSS | Bootstrap | Node.js | PostgreSQL | Express | Sequelize </p>
 </div>
 
-
-- - 🔭 I just finished working on a pet adoption network named Rebirth. You can check it out here! 
-- - https://frontend-rebirth.vercel.app
 - - 👯 I’m looking to make my way onto a team that can help me learn new technologies.
 <h3>📫 Reach me: </h3>
 <ul>
@@ -31,6 +28,9 @@
 👨‍💻 My projects
 
 <h3><mark>&nbsp;Rebirth Pet Adoption Network&nbsp;</mark></h3>
+🔭 I just finished working on a pet adoption network named Rebirth. You can check it out <a href="https://frontend-rebirth.vercel.app">here!</a>
+
+<br></br>
 
 ![maquetaHome](https://user-images.githubusercontent.com/99422691/184731109-f6da40b9-9c55-45d0-a55b-324aef70b15f.png)
 
