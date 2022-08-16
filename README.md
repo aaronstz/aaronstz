@@ -1,6 +1,6 @@
 <div>
   <h1>Hello 🧐!</h1>
-  <h2>My name is Aaron, I'm a 21 year old developer from Buenos Aires, Argentina.</h2>
+  <h2>My name is Aaron, I'm a 21 year old developer from Buenos Aires, Argentina 🧉.</h2>
   <div align ="center">
     <img src= "https://user-images.githubusercontent.com/99607710/184950157-bc1aa440-ff63-4952-a984-dee24408ede1.png"/>
   </div>
@@ -12,7 +12,7 @@
 </p>
 <br>
   <h3>Here are some of the technologies I currently know:</h3>
-  <p>Javascript | React-Redux | CSS | Bootstrap | Node.js | PostgreSQL | Express | Sequelize | </p>
+  <p>Javascript | React-Redux | CSS | Bootstrap | Node.js | PostgreSQL | Express | Sequelize </p>
 </div>
 
 
