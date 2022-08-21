@@ -1,5 +1,5 @@
 <div>
-  <h1>Hello 🧐!</h1>
+  <h1>Hello 🤓!</h1>
   <h2>My name is Aaron, I'm a 21 year old developer from Buenos Aires, Argentina 🧉.</h2>
   <div align ="center">
     <img src= "https://user-images.githubusercontent.com/99607710/184950157-bc1aa440-ff63-4952-a984-dee24408ede1.png"/>
